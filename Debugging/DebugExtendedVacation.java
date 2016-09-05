@@ -1,6 +1,6 @@
 public class DebugExtendedVacation extends DebugVacation
 {
-   public DebugVacation()
+   DebugExtendedVacation()
    {
       days = 30;
    }
